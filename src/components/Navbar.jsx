@@ -76,7 +76,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>Starmart</Logo>
+          <Logo>STARMART</Logo>
         </Center>
         <Right>
           <MenuItem>Register</MenuItem>
