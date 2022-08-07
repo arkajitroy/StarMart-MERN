@@ -7,7 +7,7 @@ import { sliderItems } from "../data";
 const Container = styled.div`
   margin-top: 3rem;
   width: 100%;
-  height: 100vh;
+  height: 80vh;
   display: flex;
   position: relative;
   overflow: hidden;
